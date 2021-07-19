@@ -1,5 +1,5 @@
 # Hungry_Snake
-A Simple Hungry Snake game create by typescript.
+A Simple Hungry Snake game creates by typescript.
 
 ###npm start
 
